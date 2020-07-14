@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "teasummer:block/tea_block_texture"
+  }
+}
